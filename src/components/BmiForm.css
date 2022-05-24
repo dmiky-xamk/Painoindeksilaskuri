@@ -1,0 +1,18 @@
+.bmi-form {
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-columns: auto 1fr;
+  gap: 0.8rem;
+
+  /* Tasataan label teksti */
+  text-align: right;
+}
+
+.bmi-input {
+  width: 8rem;
+}
+
+.bmi-button {
+  grid-column: 2 / 3;
+  width: 8rem;
+}
