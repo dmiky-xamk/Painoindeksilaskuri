@@ -1,3 +1,3 @@
 # Painoindeksilaskuri
 
-Sovellusohjelmointikurssin työ nro. 1
+Sovellusohjelmointi 1, työ nro. 1
